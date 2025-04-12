@@ -1,14 +1,14 @@
 
 # Web Scraping Tutorial for BLS Data
 
-Written by:
-Asif Rasool, Ph.D.
-Research Economist
-Business Research Center
-Southeastern Louisiana University
-1514 Martens Drive, Hammond, LA 70401
-Phone: 985-549-3831
-Email: asif.rasool@southeastern.edu
+# Written by:
+### Asif Rasool, Ph.D.
+Research Economist  
+Business Research Center  
+Southeastern Louisiana University  
+1514 Martens Drive, Hammond, LA 70401  
+Phone: 985-549-3831  
+Email: [asif.rasool@southeastern.edu](mailto:asif.rasool@southeastern.edu)
 
 This Python tutorial demonstrates how to scrape and analyze economic data from the U.S. Bureau of Labor Statistics (BLS) API. The script fetches national and county-level employment statistics such as labor force, unemployment, and employment rates for analysis and visualization.
 
